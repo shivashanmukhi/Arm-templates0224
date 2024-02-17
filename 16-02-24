@@ -1,0 +1,31 @@
+{
+    "Training module":"Azure DevOps",
+    "Traininginstite": "Saanvikit",
+    "Trainee":"Ramakrishna",
+    "Contact":144566775,
+    "Address":{
+        "flatno":101,
+        "location":"Ithub",
+        "city":"hyd",
+        "state":"ts",
+        "country":"india",
+        "pincode":232243
+    },
+    "partcipants":[
+       {
+        "Name":"aaa",
+        "location":"hyd",
+        "Azure admin": true
+         } ,
+         {
+        "Name":"bbb",
+        "location":"hyd",
+        "Azure admin": true
+         }, 
+         {
+        "Name":"bbb",
+        "location":"hyd",
+        "Azure admin": true
+         }
+        ]
+    }
